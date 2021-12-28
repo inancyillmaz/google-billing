@@ -56,7 +56,7 @@ afterEvaluate {
 
                 groupId = 'com.github.inanc'
                 artifactId = 'easy-purchase'
-                version = '4.0.1'
+                version = '4.0.3'
             }
         }
     }
